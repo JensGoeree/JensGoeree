@@ -8,5 +8,5 @@ Some of my interests within (digital) archaeology are: object based image analys
 Within the field of ecology my interests are: Rewilding projects across Europe, paleoecology and ecotourism.
 
 - 🌱 I’m currently learning: R + agent based modeling with GAMA Platform.
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/jensgoeree)
+- 📫 How to reach me: [Linkedin_profile](www.linkedin.com/in/jensgoeree).
 
