@@ -1,7 +1,5 @@
 
-
-<!--
-Hello!
+### Brief introduction.
 
 My name is Jens Goeree and i am a third year BSc archaeology student! I hold a degree in ecology & wildlife studies and i am more than interested in the symbiotic relationship between these fields! Besides my study, i work as a GIS technician for a company within the cultural heritage/archaeological sector.
 
@@ -11,4 +9,3 @@ Within the field of ecology my interests are: Rewilding projects across Europe, 
 
 - 🌱 I’m currently learning: R + agent based modeling with GAMA Platform.
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/jensgoeree)
--->
