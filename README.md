@@ -10,5 +10,5 @@ Within the field of ecology my interests are: Rewilding projects across Europe, 
 - 🌱 I’m currently learning: R + agent based modeling with GAMA Platform.
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jensgoeree/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://https://github.com/JensGoeree/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/JensGoeree/)
 
