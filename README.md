@@ -5,7 +5,7 @@ My name is Jens Goeree and i am a third year BSc archaeology student! I hold a d
 
 Some of my interests within (digital) archaeology are: object based image analysis (obia), predictive modeling, agent based modeling, (uav) photogrammetry and landscape archaeology.
 
-Within the field of ecology my interests are: Rewilding projects across Europe, paleoecology and ecotourism.
+Within the field of ecology my interests are: Rewilding projects across Europe, paleoecology, spacial ecology and ecotourism.
 
 - 🌱 I’m currently learning: R + agent based modeling with GAMA Platform.
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jensgoeree/)
